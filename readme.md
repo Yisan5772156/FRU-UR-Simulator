@@ -7,6 +7,7 @@ If you would like to contribute, pls email me(yisan5772156@outlook.com) and I'll
 ## How to Use
 Select your role first.
 WASD to move.
+Q/E to rotate camera.
 R to restart.
 
 ## Not Implemented
